@@ -1,0 +1,78 @@
+CSET Gain-of-Function Survey
+
+First, we will ask you to provide a definition of gain-of-function research for different audiences. Please provide an analogy or example in your response.
+
+1.	[open response] In a sentence or two, how would you define gain-of-function research, for a non-technical audience such as a policy-maker? 
+
+2.	[open response] In a sentence or two, how would you define gain-of-function research to the media in your own words? 
+
+3.	[open response] In a sentence or two, how would you define gain-of-function research to a colleague, in your own words?
+
+4.	[open response] How would you describe the potential merits of gain-of-function research?
+
+5.	[open response] How would you describe the potential risks associated with gain-of-function research?
+
+6.	[open response] Please explain in a few sentences when is gain-of-function research essential to public health?
+
+7.	[open response] Please explain in a few sentences when gain-of-function research is not appropriate?
+
+8.	[open response] Please provide citations for two to three examples of research studies that you would consider gain-of-function research.
+
+9.	[open response] Consider the following definition of gain-of-function research, what would you identify as strengths and gaps in this definition?
+
+“The term “gain-of-function” is generally used to refer to changes resulting in the acquisition of new, or an enhancement of existing, biological phenotypes…This report further defines “gain-of function research of concern” to describe the subset of studies that have been the subject of recent debate and have raised potential biosafety and biosecurity implications. These are gain-of function studies with the potential to generate pathogens with pandemic potential in humans by exhibiting high transmissibility and high virulence.”
+
+10.	[open response] Is there anything else you would like to add in regards to the survey or gain-of-function research?
+
+11.	Which best describes your level of education? 
+a.	Certification or high school
+b.	Some undergraduate 
+c.	Bachelor’s degree 
+d.	Master’s degree
+e.	PhD 
+f.	MD 
+g.	PhD-MD 
+h.	DVM
+i.	DDS
+j.	JD
+k.	Other or multiple [write-in]
+
+12.	Which best describes your field of education? [select all that apply]
+a.	Biology 
+b.	Chemistry 
+c.	Medicine 
+d.	Physics 
+e.	Social science or humanities 
+f.	Law or policy
+g.	Computer science 
+h.	Data science 
+i.	Other or multiple [write-in]
+
+13.	How would you describe the organization you are currently working in?
+a.	Government 
+b.	Academia
+c.	Industry
+d.	Other (please specify):
+[seen by respondent based on role]
+14.	Please list the number of years in role (and comparable roles at other institutions)
+15.	Please list number of years conducting/publishing research in this field
+16.	Please list year finished last degree / received degree
+
+17.	What country did you earn your undergraduate degree in? (if multiple, only include the most recent one).
+
+18.	What country did you earn your graduate degree in?
+
+19.	What country did you do your post-graduate degree training in?
+
+20.	Which best describes your current role?
+a.	Research scientist
+b.	Principal Investigator
+c.	Healthcare provider 
+d.	Veterinarian 
+e.	Policymaker
+f.	Policy expert, advisor, or analyst
+g.	Lawyer
+h.	Lab or science manager 
+i.	Graduate student and/or Graduate Research Assistant
+j.	Other (please specify): 
+
